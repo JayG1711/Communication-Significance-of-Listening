@@ -6,7 +6,7 @@ Communication is often described as the foundation of human relationships — th
 In an age where information travels faster than ever, genuine listening has become rare. Many people hear words but do not truly *listen* to understand. This article explores the importance of listening in communication, its role in personal and professional growth, and strategies for becoming a more active and empathetic listener.
 
 <!-- Place Image 1: Communication Cycle -->
-![Communication Cycle](images/communication_cycle.png)
+![Communication Cycle](images/cycle.jpg)
 
 ---
 
@@ -22,7 +22,7 @@ There are different types of listening:
 Among these, *active and empathic listening* are the most important for building effective communication in both personal and professional contexts.
 
 <!-- Place Image 2: Types of Listening -->
-![Types of Listening](images/types_of_listening.png)
+![Types of Listening](images/listning.png)
 
 ---
 
@@ -70,7 +70,7 @@ When we listen without interrupting or judging, we allow the other person to exp
 In relationships, the phrase “I understand how you feel” is powerful — but it only holds meaning when it comes from *genuine listening*.
 
 <!-- Place Image 3: Empathic Listening Illustration -->
-![Empathic Listening](images/empathic_listening.png)
+![Empathic Listening](images/em.jpg)
 
 ---
 
@@ -85,7 +85,7 @@ Despite its importance, many people struggle with listening effectively. Some co
 Overcoming these barriers requires mindfulness and practice. Recognizing one’s listening habits is the first step toward improvement.
 
 <!-- Place Image 4: Barriers to Listening -->
-![Barriers to Listening](images/barriers_to_listening.png)
+![Barriers to Listening](images/ba.jpg)
 
 ---
 
